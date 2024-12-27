@@ -1,6 +1,7 @@
 # Basic_calculator_using_Java
-Basic Calculator built
-1. Using Factory design pattern in java.
+Basic calculator performing operations ->Addition, Subtraction, Multiplication and Division.  Using below ->
+1. Factory design pattern in java.
 2. Spring MVC
 3. Spring Boot
 4. Maven
+5. Jsp for UI
